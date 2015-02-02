@@ -896,6 +896,18 @@ Gasmask:
   :bootleg: true
   :description: ''
 Gauze:
+- :name: Equalizing Distort
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854331985815.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2014'
+  :acquired_from: Warlord Clothing
+  :bootleg: true
+  :description:
 - :name: Gauze/Anarchy Logo
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422509137301217.jpg
@@ -1070,7 +1082,19 @@ Iron Age:
   :acquired_from: eBay
   :bootleg: false
   :description: ''
-Isterismo: []
+Isterismo:
+- :name: Essere Uno
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854351620643.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: grey
+  :ink_color: black
+  :manufacturer: Gildan Ultra Cotton
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description:
 Jawbreaker:
 - :name: When It Pains It Roars
   :pictures:
@@ -1637,7 +1661,32 @@ Unit 21:
   :acquired_from: Unit 21
   :bootleg: false
   :description: Purchased from the band at a show at Rubber Gloves.
-Universal Order of Armageddon: []
+Unholy Grave:
+- :name: Grind Bastards Grinding USA 2009
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422853972932653.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2009'
+  :acquired_from: Unholy Grave
+  :bootleg: false
+  :description: Purchased from the band at a show at The Alamo.
+Universal Order of Armageddon:
+- :name: Deformed Skeletons
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854068307535.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Anvil Organic
+  :acquired_date: '2011'
+  :acquired_from: Chaos in Tejas 2011
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2011.
 Warcry:
 - :name: Instinctual Pimitive Mania
   :pictures:
@@ -1651,6 +1700,19 @@ Warcry:
   :acquired_from: Chaos in Tejas 2009
   :bootleg: false
   :description: Purchased from the Band at Chaos in Tejas 2009.
+Vaaska:
+- :name: Deformación Ruido Destrucción
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854034870384.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2013.
 Warhead:
 - :name: Get the Fuck Out of My Way III
   :pictures:
@@ -1665,6 +1727,19 @@ Warhead:
   :acquired_from: eBay
   :bootleg: false
   :description: ''
+- :name: Special Fuck You Japan 2005
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854329885070.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422854024413901.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: Prinstar HeavyWeight Pre-shrunk
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description:
 Warzone:
 - :name: Don't Forget the Struggle, Don't Forget the Streets
   :pictures: []
@@ -1764,7 +1839,31 @@ Youth of Today:
   :acquired_from: Screenprinting Paolo
   :bootleg: true
   :description: ''
-Zouo: []
+Zouo:
+- :name: Anarchy Destruction
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854037822671.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Unknown
+  :acquired_date: '2013'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Tag ripped out by label and replaced with a "Vira Mort" tag.
+- :name: Frustration
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854015611714.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton HD
+  :acquired_date: '2014'
+  :acquired_from: Schizoid Unit
+  :bootleg: true
+  :description:
 Zyanose:
 - :name: From Nuclear Island Never Give in Nuke Traitor
   :pictures:
@@ -1789,20 +1888,20 @@ Zyanose:
   :acquired_from: Chaos in Tejas 2012
   :bootleg: false
   :description: Purchased from the band at Chaos in Tejas 2012.
-"悪AI意":
-- :name: War Tribes on Protest 2009
+"悪AI意 / Warcry":
+- :name: Two War Tribes on Protest Tour 2009
   :pictures:
-    - http://seaneshbaugh.com/uploads/picture/images/1422508787302219.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422854082946905.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422854120116406.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
-  :ink_color: white
-  :manufacturer: Hanes Heavyweight
+  :ink_color: green,white
+  :manufacturer: Gildan Heavy Cotton
   :acquired_date: '2009'
   :acquired_from: Chaos in Tejas 2009
   :bootleg: false
-  :description: Purchased from the band at Chaos in Tejas 2009.
-"悪AI意 / Warcry": []
+  :description: Purchased from Warcry at Chaos in Tejas 2009.
 Crude / Unit 21:
 - :name: "狼Ring Western Tour Vol. 2 and 3"
   :pictures:
@@ -1830,6 +1929,46 @@ Forward / Teargas:
   :acquired_from: Diskshop Misery
   :bootleg: false
   :description: ''
+Mental / Desperate Measures:
+- :name: Lock Up Your Daughters Summer Tour 2004
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854349835850.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422854341900354.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: red,black
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description:
+Nerveskade / D-Clone:
+- :name: Obscene Noize Violence Japan Tour 2011
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854344351641.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: grey
+  :ink_color: white
+  :manufacturer: Prinstar HeavyWeight Pre-shrunk
+  :acquired_date: '2015'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description:
+Krömosom / Nomad / Frenzy:
+- :name: Nuclear Reich Tour 2013
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508068797632.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from Krömosom at Chaos in Tejas 2013.
 Warhead / Forward / Zone:
 - :name: Burning Against Spirits
   :pictures:
@@ -1844,16 +1983,56 @@ Warhead / Forward / Zone:
   :acquired_from: eBay
   :bootleg: false
   :description: ''
-Krömosom / Nomad / Frenzy:
-- :name: Nuclear Reich Tour 2013
+"悪AI意":
+- :name: War Tribes on Protest 2009
   :pictures:
-    - http://seaneshbaugh.com/uploads/picture/images/1422508068797632.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508787302219.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
-  :ink_color: grey
-  :manufacturer: Fruit of the Loom BEST
-  :acquired_date: '2013'
-  :acquired_from: Chaos in Tejas 2013
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
   :bootleg: false
-  :description: Purchased from Krömosom at Chaos in Tejas 2013.
+  :description: Purchased from the band at Chaos in Tejas 2009.
+Bloodsucker Records:
+- :name: Bloodsucker Records 25th Anniversary
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854123752043.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422854158608192.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422854153208975.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: full-color,red
+  :manufacturer: UnitedAthle
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Designed by Sugi.
+Pallbearer Press:
+- :name: Dawn of the Dead
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854164693096.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes ComfortSoft
+  :acquired_date: '2013'
+  :acquired_from: Pallbearer Press
+  :bootleg: false
+  :description: Designed by Sugi.
+- :name: 牡丹灯篭
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422854171147080.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes ComfortSoft
+  :acquired_date: '2014'
+  :acquired_from: Pallbearer Press
+  :bootleg: false
+  :description: Designed by Sugi.
