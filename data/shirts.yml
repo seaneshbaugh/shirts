@@ -1,0 +1,1859 @@
+---
+100 Demons:
+- :name: 100 Demons
+  :pictures: []
+  :type: pull-over-hoodie
+  :size: medium
+  :fabric_color: red
+  :ink_color: full-color
+  :manufacturer:
+  :acquired_date: '2008'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+'108':
+- :name: Radha
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508787625889.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508802392430.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: copper
+  :manufacturer: Jerzees HiDensi-T
+  :acquired_date: '2014'
+  :acquired_from: Deathwish Inc.
+  :bootleg: false
+  :description: Designed by Jacob Bannon.
+Acid:
+- :name: Gray Earth
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508544120081.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508530579375.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: indigo
+  :manufacturer: Printstar HeavyWeight Pre-shrunk
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Designed by Sugi.
+- :name: Gray Earth
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: Printstar HeavyWeight Pre-shrunk
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Designed by Sugi.
+Amebix:
+- :name: Raven
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508049916110.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508100930057.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,white
+  :manufacturer: ''
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
+American Nightmare:
+- :name: A|N
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763528156700.jpg
+  :type: zip-up-hoodie
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,white
+  :manufacturer: Jerzees Super Sweats
+  :acquired_date: '2011'
+  :acquired_from: Shop Shogun
+  :bootleg: false
+  :description: Officially licensed reprint. Received as a Christmas gift from my
+    girlfriend in 2011.
+Arctic Flowers:
+- :name: New Wave
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586360983055.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: blue,pink,yellow
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: Arctic Flowers Bandcamp
+  :bootleg: false
+  :description: Reprint sold by the band on Bandcamp.
+- :name: Weaver
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508150174034.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: blue,pink,purple,red
+  :manufacturer: Gildam Heavy Cotton
+  :acquired_date: '2015'
+  :acquired_from: Arctic Flowers Bandcamp
+  :bootleg: false
+  :description: Sold by the band on Bandcamp.
+- :name: New Wave
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: heather-grey
+  :ink_color: blue,pink,yellow
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: Arctic Flowers Bandcamp
+  :bootleg: false
+  :description: Reprint sold by the band on Bandcamp.
+- :name: Weaver
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: off-white
+  :ink_color: blue,pink,purple,red
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2015'
+  :acquired_from: Arctic Flowers Bandcamp
+  :bootleg: false
+  :description: Sold by the band on Bandcamp.
+Assfort:
+- :name: Stay Assfort
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Daluc Standard
+  :acquired_date: '2014'
+  :acquired_from: Vortex Online Store
+  :bootleg: false
+  :description: ''
+Attitude: []
+Balls Out:
+- :name: Kill Sherwin
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: black
+  :ink_color: green
+  :manufacturer:
+  :acquired_date: '2007'
+  :acquired_from: Balls Out
+  :bootleg: false
+  :description: Purchased from the band at their reunion show at Red Blood Club.
+- :name: Cat Pirate
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: grey
+  :ink_color: black
+  :manufacturer:
+  :acquired_date: '2006'
+  :acquired_from: Ridglea Metal Fest 2006
+  :bootleg: false
+  :description: Purchased from the band at Ridglea Metal Fest 2006. WAR CAT PIRATE!
+- :name: Zombie Big Tex
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586603398104.jpg
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: red
+  :ink_color: white
+  :manufacturer:
+  :acquired_date: '2005'
+  :acquired_from: Balls Out
+  :bootleg: false
+  :description: Purchased from the band at a show at Red Blood Club.
+- :name: Reunion Show
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: yellow
+  :ink_color: black
+  :manufacturer:
+  :acquired_date: '2007'
+  :acquired_from: Balls Out
+  :bootleg: false
+  :description: Purchased from the band at their reunion show at Red Blood Club.
+- :name: Breakdancing Penguins
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586614224160.jpg
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: blue
+  :ink_color: white
+  :manufacturer:
+  :acquired_date: '2005'
+  :acquired_from: Balls Out
+  :bootleg: false
+  :description: Purchased from the band at a show at Across the Street Bar.
+Bane:
+- :name: Gold and Yellow
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: brown
+  :ink_color: gold,yellow
+  :manufacturer:
+  :acquired_date: '2007'
+  :acquired_from: SXSW 2007
+  :bootleg: false
+  :description: Purchased from the band at a SXSW 2007 day-time show.
+Bastard:
+- :name: All the Members Gather in Chaos in Tejas Gig Vol. 6
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586488894032.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422586476791589.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422586525262733.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2010'
+  :acquired_from: Chaos in Tejas 2010
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2010.
+- :name: Bastard Returned to Play in Texas
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422588051207460.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422586397746303.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422586402929847.jpg
+  :type: short-sleeved-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2010'
+  :acquired_from: Chaos in Tejas 2010
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2010.
+- :name: No Hope in Here
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586547244065.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422586538784523.jpg
+  :type: short-sleeved-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: green,orange,pink
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2010'
+  :acquired_from: Chaos in Tejas 2010
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2010.
+- :name: Truth Mummy
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586368230247.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2014'
+  :acquired_from: Schizoid Unit
+  :bootleg: true
+  :description: ''
+- :name: Truth Mummy
+  :pictures: []
+  :type: long-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2010'
+  :acquired_from: Chaos in Tejas 2010
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2010.
+- :name: Wind of Pain
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586400270586.jpg
+  :type: short-sleeved-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: green
+  :manufacturer: Gildan Ultra Blend
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: Seller claimed to believe it to be genuine.
+- :name: Controlled in the Frame
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508084767339.jpg
+  :type: short-sleeved-shirt
+  :size: medium
+  :fabric_color: red
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton HD
+  :acquired_date: '2014'
+  :acquired_from: Schizoid Unit
+  :bootleg: true
+  :description: Customized colors.
+Battalion of Saints:
+- :name: Fighting Boys
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2007'
+  :acquired_from: Battalion of Saints
+  :bootleg: false
+  :description: Purchased from the band at a show at Red Blood Club.
+Battle of Disarm:
+- :name: Crust, Love, and Peace
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer:
+  :acquired_date: '2012'
+  :acquired_from: Puke 'N' Vomit Records
+  :bootleg: true
+  :description: ''
+Bitter End:
+- :name: Climate of Fear Record Release Show
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2007'
+  :acquired_from: Bitter End
+  :bootleg: false
+  :description: Purchased from the band at the "Climate of Fear" record release show
+    at Red Blood Club.
+- :name: USHC Eagle
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Black Flag: []
+Black Past:
+- :name: Tiger
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: black
+  :manufacturer: Gildan Activewear Ultra Cotton Heavyweight
+  :acquired_date: '2007'
+  :acquired_from: Bill Money
+  :bootleg: false
+  :description: Given to me by Bill Money before The Way It Is Fest 2007.
+Blacklisted:
+- :name: Lions
+  :pictures: []
+  :type: zip-up-hoodie
+  :size: medium
+  :fabric_color: grey
+  :ink_color: red
+  :manufacturer:
+  :acquired_date: '2006'
+  :acquired_from: 'Blacklisted'
+  :bootleg: false
+  :description: 'Purchased from the band at a show at Red Blood Club.'
+Brutal Knights:
+- :name: Drinking Skeleton
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,white
+  :manufacturer: Gildan Ultra Cotton
+  :acquired_date: '2007'
+  :acquired_from: Brutal Knights
+  :bootleg: false
+  :description: Purchased from the band at a show at Red Blood Club.
+Career Suicide:
+- :name: Attempted Suicide
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: red
+  :ink_color: black
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
+Catch 22: []
+Champion:
+- :name: Lion
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763874893448.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763859862781.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: navy-blue
+  :ink_color: grey,white
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2006'
+  :acquired_from: Unknown
+  :bootleg: false
+  :description: ''
+- :name: Straight Edge Sweats
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764362863008.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764764265959.jpg
+  :type: sweat-pants
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Activewear Heavy Weight Blend
+  :acquired_date: '2007'
+  :acquired_from: Thunder Lizard
+  :bootleg: false
+  :description: ''
+Circle Takes the Square: []
+City of Caterpillar:
+- :name: City of Caterpillar
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: true
+  :description: ''
+Cleric:
+- :name: Gratum Inferno
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: Cleric Bandcamp
+  :bootleg: false
+  :description: Sold by the band on Bandcamp. Designed by Jason Barnett.
+- :name: Gratum Inferno
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: Cleric Bandcamp
+  :bootleg: false
+  :description: Sold by the band on Bandcamp. Designed by Jason Barnett.
+- :name: Hellmouth
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2014'
+  :acquired_from: Cleric Bandcamp
+  :bootleg: false
+  :description: Sold by the band on Bandcamp. Designed by Jason Barnett.
+Cluster Bomb Unit:
+- :name: Split with Raag Cover
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2009'
+  :acquired_from: Crimes Against Humanity Records and Distribution
+  :bootleg: true
+  :description: Received as a Christmas gift from my girlfriend in 2009.
+Criaturas: []
+Cro-Mags:
+- :name: World Peace...Can't Be Done
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the Band at Chaos in Tejas 2009.
+Crow:
+- :name: "破滅ノ羽音"
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2010'
+  :acquired_from: Chaos in Tejas 2010
+  :bootleg: false
+  :description: Purchased from the Band at Chaos in Tejas 2010.
+- :name: "血涙 Skull"
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: orange-red
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Chains Ov Death
+  :bootleg: false
+  :description: ''
+Crude:
+- :name: "血汗涙魂"
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508655867474.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Anvil
+  :acquired_date: '2011'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+- :name: "血汗涙魂 / Mushroom Cloud"
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,red
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
+- :name: Skeletons
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,red,teal
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
+Cursive:
+- :name: Ugly Organ
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2013'
+  :acquired_from: Saddle Creek
+  :bootleg: false
+  :description: ''
+D-Clone:
+- :name: I'm Gonna Destroy Your Eardrums
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508520480330.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2011'
+  :acquired_from: Chaos in Tejas 2011
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2011.
+Dag Nasty:
+- :name: Can I Say
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: purple,white
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Screenprinting Paolo
+  :bootleg: true
+  :description: ''
+Dark Forces:
+- :name: Pentagram
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Anvil
+  :acquired_date: '2009'
+  :acquired_from: Dark Forces
+  :bootleg: false
+  :description: Purchased from the band at a show at J&J's Pizza.
+Death Side:
+- :name: Bet on the Possibility
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black,blue
+  :manufacturer: ''
+  :acquired_date: '2013'
+  :acquired_from: Committed to Suicide Distributions
+  :bootleg: false
+  :description: ''
+Deltron 3030:
+- :name: Deltron 3030
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596696471576.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2013'
+  :acquired_from: Fun Fun Fun Fest 2013
+  :bootleg: false
+  :description: Purchased from the group at Fun Fun Fun Fest 2013.
+Desperate Measures:
+- :name: Summer Tour 2004 - Cali or Bust
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: green
+  :ink_color: yellow
+  :manufacturer:
+  :acquired_date: '2007'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Disclose:
+- :name: D-Beat Raw Punk
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596692548020.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan DryBlend
+  :acquired_date: '2014'
+  :acquired_from: Crimes Against Humanity Records and Distribution
+  :bootleg: true
+  :description: ''
+- :name: D-Beat Raw Punk
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan DryBlend
+  :acquired_date: '2012'
+  :acquired_from: Crimes Against Humanity Records and Distribution
+  :bootleg: true
+  :description: ''
+- :name: Kawakami Forever
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764650919500.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764658529230.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: UnitedAthle
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Dropdead:
+- :name: Tank
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596682297140.jpg
+  :type: sort-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Classic Valueweight
+  :acquired_date: '2009'
+  :acquired_from: Dropdead
+  :bootleg: false
+  :description: Purchased from the band at a show at 1919 Hemphill.
+Effluxus:
+- :name: Punk Roach
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: brown
+  :ink_color: light-blue
+  :manufacturer: ''
+  :acquired_date: '2012'
+  :acquired_from: Committed to Suicide Distributions
+  :bootleg: false
+  :description: I'm pretty sure someone in Effluxus runs Committed to Suicide so I don't think this is technically a bootleg.
+- :name: Speaker Head
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: yellow
+  :ink_color: black
+  :manufacturer: ''
+  :acquired_date: '2012'
+  :acquired_from: Committed to Suicide Distributions
+  :bootleg: false
+  :description: I'm pretty sure someone in Effluxus runs Committed to Suicide so I don't think this is technically a bootleg.
+Electric Funeral: []
+Empire! Empire! (I Was a Lonely Estate):
+- :name: Chrono Trigger
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596696400705.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: brown,light-blue,red,white,yellow
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Count Your Lucky Stars Records
+  :bootleg: false
+  :description: ''
+Energy:
+- :name: Working Man
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596624861688.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: green,white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2006'
+  :acquired_from: Energy
+  :bootleg: false
+  :description: Purchased from the band at a show.
+Far From Breaking: []
+Floorpunch: []
+Forward:
+- :name: Burning Against Spirits
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596689605748.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: yellow,white
+  :manufacturer: ''
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+- :name: Burning Spirits US Tour 2004
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596609459062.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422596627145787.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+- :name: Devil's Cradle
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763582525955.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763559326546.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Jerzees Heavyweight Cotton
+  :acquired_date: '2012'
+  :acquired_from: Forward
+  :bootleg: false
+  :description: Purchased from the band at a show at Rubber Gloves.
+Framtid:
+- :name: Consuming Shit and Mind Pollution
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596533218009.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422596514777610.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer:
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2013.
+- :name: Consuming Shit and Mind Pollution
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596521541950.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: ''
+  :acquired_date: '2013'
+  :acquired_from: Committed to Suicide Distributions
+  :bootleg: true
+  :description: Purchased this before the lineup to Chaos in Tejas 2013 was announced. Oops.
+- :name: Defeat of Civilization
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596528157249.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422596511372361.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer:
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2013.
+- :name: Hardcore Victim
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596570598005.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422596607827420.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer:
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2013.
+Fucked Up: []
+G.I.S.M.:
+- :name: Anarchy Violence
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763545465869.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763629272820.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Yazbek
+  :acquired_date: '2014'
+  :acquired_from: Angry Young and Poor
+  :bootleg: true
+  :description: ''
+- :name: Detestation
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763549599390.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,white
+  :manufacturer: Jerzees Heavyweight Cotton
+  :acquired_date: '2014'
+  :acquired_from: Puke 'N' Vomit Records
+  :bootleg: true
+  :description: ''
+- :name: Paranoia Violence
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763564774950.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,red
+  :manufacturer: Jerzees HiDensi-T
+  :acquired_date: '2013'
+  :acquired_from: Committed to Suicide Distributions
+  :bootleg: true
+  :description: ''
+- :name: Punks Is Hippies
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763653757600.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2014'
+  :acquired_from: Angry Young and Poor
+  :bootleg: true
+  :description: ''
+Gasmask:
+- :name: Gasmask
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422596463425990.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2014'
+  :acquired_from: Schizoid Unit
+  :bootleg: true
+  :description: ''
+Gauze:
+- :name: Gauze/Anarchy Logo
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422509137301217.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Ultra Blend
+  :acquired_date: '2009'
+  :acquired_from: Crimes Against Humanity Records and Distribution
+  :bootleg: true
+  :description: Received as a Christmas gift from my girlfriend in 2009.
+Gloom:
+- :name: Insane Crusties!
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763658709352.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Delta Pro Weight
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: true
+  :description: Purchased from some random dude who had a table full of bootleg
+    shirts at The Mohawk at Chaos in Tejas 2013.
+- :name: Insanity Crusties Till Death!!!
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763674270371.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Jerzees HiDensi-T
+  :acquired_date: '2013'
+  :acquired_from: Committed to Suicide Distributions
+  :bootleg: true
+  :description: ''
+Go It Alone: []
+Gordon Solie Motherfuckers:
+- :name: Hated and Loving It...
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763657625393.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Gildan Activewear Heavy Weight Cotton
+  :acquired_date: '2007'
+  :acquired_from: Chaos in Tejas 2007
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2007.
+Gorilla Biscuits: []
+Government Warning: []
+Gudon:
+- :name: 2009 Reunion
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763787485910.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763768814967.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: full-color,red
+  :manufacturer: UnitedAthle
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Designed by Sugi.
+- :name: My Meat's Your Poison
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763743641223.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763740377000.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: full-color,teal
+  :manufacturer: UnitedAthle
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Designed by Sugi.
+- :name: Oni
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763793950406.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763759573455.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: full-color,team
+  :manufacturer: UnitedAthle
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: Designed by Sugi.
+- :name: 残忍聖者
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763860593889.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422763876486001.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,white
+  :manufacturer: Hanes
+  :acquired_date: '2011'
+  :acquired_from: Chaos in Tejas 2011
+  :bootleg: false
+  :description: Purchased from Origin of [M] at Chaos in Tejas 2011.
+Hands of the Few: []
+Hellbastard:
+- :name: Ripper Crust
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763925120294.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2010'
+  :acquired_from: Hellbastard
+  :bootleg: false
+  :description: Purchased from the band at a show at Rubber Gloves.
+Hot Water Music: []
+Impalers:
+- :name: Demo Cover
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508896822349.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: tie-dye
+  :ink_color: black
+  :manufacturer: Hanes ComfortSoft Heavyweight
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Indian Summer: []
+Insect Warfare:
+- :name: Endless Execution
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763966200779.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2006'
+  :acquired_from: James K
+  :bootleg: false
+  :description: ''
+Iron Age:
+- :name: Paladin
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763928465494.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: purple,red,yellow,white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2014'
+  :acquired_from: Merch Swap Facebook Group
+  :bootleg: false
+  :description: Misprint.
+- :name: The Most High
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763986692657.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: baby-blue,white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Isterismo: []
+Jawbreaker:
+- :name: When It Pains It Roars
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508092545090.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: purple,white,yellow
+  :manufacturer: Jerzees HiDensi-T
+  :acquired_date: '2015'
+  :acquired_from: Vintage Tees
+  :bootleg: true
+  :description: ''
+Judge: []
+Judgement:
+- :name: Guilty or Not Guilty?
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763996598122.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,red
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: I braved the most ridiculous merch line in the history of punk to
+    get this shirt.
+- :name: No Reason Why
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422763987486542.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: pink,teal
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Before Midnight had even finished playing people were already
+    lining up and getting antsy. I got the last medium.
+Junius: []
+Justice: []
+Kaospilot:
+- :name: Kaos Invasion 2004
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764052638650.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: blue,red,white
+  :manufacturer: Murina
+  :acquired_date: '2006'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Kite Flying Society: []
+Knockout Kings:
+- :name: The Kids Got Heart
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586409134375.jpg
+  :type: zip-up-hoodie
+  :size: medium
+  :fabric_color: red
+  :ink_color: white
+  :manufacturer: ''
+  :acquired_date: '2006'
+  :acquired_from: Knockout Kings
+  :bootleg: false
+  :description: Purchased from the band at a show at Red Blood Club.
+Kriegshög: []
+Krömosom:
+- :name: Nuclear Reich
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764035284558.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Fruit of the Loom Heavy Cotton HD
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2013.
+Kylesa: []
+La Quiete: []
+Layin' It Down: []
+Leeway: []
+Lie and Wait: []
+Lion of Judah:
+- :name: Universal Peace
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764066610243.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: green,orange,white
+  :manufacturer: Hanes Heavyweight 50/50
+  :acquired_date: '2007'
+  :acquired_from: Lion of Judah
+  :bootleg: false
+  :description: Purchased from the band's website.
+Lip Cream: []
+Machine Gun Romantics:
+- :name: Conan
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764107203895.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764087179735.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Heanes Heavyweight
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Madball: []
+Mammoth Grinder:
+- :name: Cosmic Bird
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764099263314.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Ultra Cotton
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2013.
+Masakari:
+- :name: Eden Compromised
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764150281193.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: mustard
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2011'
+  :acquired_from: Masakari
+  :bootleg: false
+  :description: Purchased from the band at a show at Elmo Jones.
+Mauser: []
+MDC:
+- :name: Millions of Dead Cops
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764195647832.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2007'
+  :acquired_from: MDC
+  :bootleg: false
+  :description: Purchased from the band at a show at Red Blood CLub.
+Midnight:
+- :name: You Can't Stop Vomit Tour 2009
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764192738165.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764164382133.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: yellow
+  :manufacturer: Jerzees Heavyweight Blend
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
+Mind Eraser: []
+Mineral:
+- :name: 20th Anniversary Tour 2014
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422509156976822.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508188455438.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: charcoal
+  :ink_color: blue,red,white
+  :manufacturer: Tultex
+  :acquired_date: '2015'
+  :acquired_from: Mineral
+  :bootleg: false
+  :description: Purchased from the band at a show at Club Dada.
+Minor Threat: []
+Modern Pain: []
+Moss Icon: []
+Municipal Waste: []
+New Order: []
+Nightmare:
+- :name: Masahiro
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764204826200.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,white
+  :manufacturer: Unknown
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: Tag was cut off by previous owner.
+On My Side: []
+Origin of [M]:
+- :name: No Nukes No Power
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764283644842.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2011'
+  :acquired_from: Chaos in Tejas 2011
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2011.
+- :name: Our Struggle Starts Toward the Happy Ending
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764241124940.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764245759267.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: pale-yellow,teal
+  :manufacturer: Prinstar HeavyWeight Pre-shrunk
+  :acquired_date: '2011'
+  :acquired_from: Chaos in Tejas 2011
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2011.
+Out to Sea: []
+pg. 99:
+- :name: 'Document #5 Cover'
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: extra-large
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Anvil
+  :acquired_date: '2011'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+- :name: 'Document #8 Cover'
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764332670698.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2011'
+  :acquired_from: pg. 99
+  :bootleg: false
+  :description: Purchased from the band at their reunion show in Richmond.
+- :name: Girl
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764293794543.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2011'
+  :acquired_from: pg. 99
+  :bootleg: false
+  :description: Purchased from the band at their reunion show in Richmond.
+- :name: Girl
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764298606108.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+- :name: Punx Not Dead
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586523357324.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422586569600449.jpg
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Hanes Heavyweight 50/50
+  :acquired_date: '2005'
+  :acquired_from: Bridge 9 Board
+  :bootleg: false
+  :description: My friend Sherwin tipped me off to someone selling a pg. 99 shirt
+    on the B9. I made the poster what seemed (to me) like a lowball offer and they
+    took it. Easily my favorite shirt by my favorite band.
+- :name: 'Document #5 Cover'
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508816443230.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: yellow
+  :ink_color: black
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Paintbox:
+- :name: Hard Core Psychedelia
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508541549097.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: grey
+  :ink_color: red,orange,green,blue,indigo,yellow
+  :manufacturer: Printstar HeavyWeight Pre-shrunk
+  :acquired_date: '2014'
+  :acquired_from: Vortex Online Store
+  :bootleg: false
+  :description: ''
+Poison Arts:
+- :name: Dragon
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508663965477.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red
+  :manufacturer: Printstar HeavyWeight Pre-shrunk
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: ''
+Pools:
+- :name: Tree
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764356660559.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: green
+  :manufacturer: Fruit of the Loom
+  :acquired_date: '2008'
+  :acquired_from: Pools
+  :bootleg: false
+  :description: Purchased from the band at a show at 715 Pandhandle.
+Power Trip:
+- :name: Manifest Decimation
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764812559271.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: brown,orange,red,tan,white
+  :manufacturer: Hanes ComfortBlend EcoSmart
+  :acquired_date: '2013'
+  :acquired_from: Southern Lord Records
+  :bootleg: false
+  :description: Bundled with the "Manifest Decimation" LP.
+- :name: Reaper
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764809734254.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2013'
+  :acquired_from: Cold Cuts Merch
+  :bootleg: false
+  :description: ''
+- :name: Too Turnt Up
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764802827994.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Unknown
+  :acquired_date: '2013'
+  :acquired_from: Defiant Youth Merch
+  :bootleg: false
+  :description: Tag was cut off by distro and replaced with screen printed label.
+- :name: Warhammer Through Skull
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508080995266.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: Alstyle Apparel & Activewear
+  :acquired_date: '2014'
+  :acquired_from: Fun Fun Fun Fest 2014
+  :bootleg: false
+  :description: Purchased from the band at a Fun Fun Fun Fest 2014 night show.
+Pygmy Lush:
+- :name: Scarecrow
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508893710391.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: tie-dye
+  :ink_color: black
+  :manufacturer: Unknown
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: Tag was cut off by previous owner.
+Razzle Dazzle:
+- :name: '5'
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764815793649.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+- :name: RZL DZL 5 and Diamons
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422586609150076.jpg
+  :type: short-sleeve-shirt
+  :size: small
+  :fabric_color: orange
+  :ink_color: silver
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2006'
+  :acquired_from: Razzle Dazzle
+  :bootleg: false
+  :description: Purchased from the band at a show at Red Blood Club.
+Risky Business: []
+Seeker: []
+Sick of It All: []
+Skitkids: []
+Skizophrenia: []
+Slang:
+- :name: U.S. Tour 2010
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764524563590.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764511124652.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2010'
+  :acquired_from: Slang
+  :bootleg: false
+  :description: Purchased from the band at a show at The Phoenix Project.
+State Poison: []
+Systematic Death:
+- :name: Backdrop World Tour
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764539885331.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764584331728.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Terror: []
+Texas Is the Reason: []
+The Get Up Kids:
+- :name: The Godfather
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764573474726.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2013'
+  :acquired_from: Angry Young and Poor
+  :bootleg: true
+  :description: ''
+The Kodan Armada: []
+The Pillows:
+- :name: Ride on Shooting Star
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764600430627.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764615431892.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: sky-blue,white
+  :manufacturer: Prinstar Heavy Weight Pre-shrunk
+  :acquired_date: '2008'
+  :acquired_from: SXSW 2008
+  :bootleg: false
+  :description: Purchased from the band at SXSW 2008.
+The Postal Service:
+- :name: Post Office Box
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422509155519532.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: natural
+  :ink_color: black,blue
+  :manufacturer: American Apparel
+  :acquired_date: '2013'
+  :acquired_from: The Postal Service
+  :bootleg: false
+  :description: Purchased from the band at a show at Verizon Theatre.
+The Slowmotions: []
+The Starting Line: []
+The Stalin: []
+The Wrists: []
+Tolar:
+- :name: Rise to the Top, Stand in Front of the Bastards.
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508682489519.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: orange,yellow,fade
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2014'
+  :acquired_from: Tolar
+  :bootleg: false
+  :description: Purchased from the band at a show Club Dada.
+Tragedy:
+- :name: Bird
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422509161990388.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Ultra Cotton
+  :acquired_date: '2011'
+  :acquired_from: Sworn to Fun
+  :bootleg: true
+  :description: Sold to me by somone from the Sworn to Fun message board.
+Turmoil:
+- :name: Killadelphia
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764626950624.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey,silver
+  :manufacturer: Anvil
+  :acquired_date: '2007'
+  :acquired_from: Turmoil
+  :bootleg: false
+  :description: Purchased from the band at a show at Ridglea Theater.
+Unit 21:
+- :name: Beer Koozie Hat Skull
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2012'
+  :acquired_from: Unit 21
+  :bootleg: false
+  :description: Purchased from the band at a show at Rubber Gloves.
+Universal Order of Armageddon: []
+Warcry:
+- :name: Instinctual Pimitive Mania
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508672531655.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: grey
+  :ink_color: white,red
+  :manufacturer: Gildan Ultra Cotton
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the Band at Chaos in Tejas 2009.
+Warhead:
+- :name: Get the Fuck Out of My Way III
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508627170802.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508650465300.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: red
+  :ink_color: black,blue
+  :manufacturer: Printstar HeavyWeight Pre-shrunk
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Warzone:
+- :name: Don't Forget the Struggle, Don't Forget the Streets
+  :pictures: []
+  :type: cut-off-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: red,blue,black
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2014'
+  :acquired_from: CoreShirts4Sale Tumblr
+  :bootleg: true
+  :description: ''
+- :name: Don't Forget the Struggle, Don't Forget the Streets
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: heather-grey
+  :ink_color: black,blue,red
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Screenprinting Paolo
+  :bootleg: true
+  :description: ''
+- :name: Super Bowl of Hardcore III
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508198119623.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422509165657377.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: navy-blue
+  :ink_color: red,white,blue
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Screenprinting Paolo
+  :bootleg: true
+  :description: ''
+Wiccans:
+- :name: Khan Noonien Singh
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: red
+  :manufacturer: Fruit of the Loom
+  :acquired_date: '2011'
+  :acquired_from: Wiccans
+  :bootleg: false
+  :description: Purchased from the band at a show 1919 Hemphill.
+- :name: Khan Noonien Singh - Not Dead Yet 2014
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: natural
+  :ink_color: black,red
+  :manufacturer: Gildan
+  :acquired_date: '2014'
+  :acquired_from: Permanent Fix
+  :bootleg: false
+  :description: Sold by the band through Permanent Fix Storenvy.
+Wild//Tribe:
+- :name: Mohawk Skull
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508853774697.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: tie-dye
+  :ink_color: black
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2012'
+  :acquired_from: Wild//Tribe
+  :bootleg: false
+  :description: Purchased from the band at a show at Club Dada.
+World Burns to Death:
+- :name: World Burns to Death
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Fun Fun Fun Fest 2014
+  :bootleg: false
+  :description: Purchased from the band at a Fun Fun Fun Fest 2014 night show.
+Youth of Today:
+- :name: Break Down the Walls
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422509159203723.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508379381032.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508394343088.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black,blue,red
+  :manufacturer: Anvil
+  :acquired_date: '2014'
+  :acquired_from: Screenprinting Paolo
+  :bootleg: true
+  :description: ''
+Zouo: []
+Zyanose:
+- :name: From Nuclear Island Never Give in Nuke Traitor
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508474685756.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Nano-T
+  :acquired_date: '2012'
+  :acquired_from: Chaos in Tejas 2012
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2012.
+- :name: Insane Noise Raid
+  :pictures: []
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Nano-T
+  :acquired_date: '2012'
+  :acquired_from: Chaos in Tejas 2012
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2012.
+"悪AI意":
+- :name: War Tribes on Protest 2009
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508787302219.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
+"悪AI意 / Warcry": []
+Crude / Unit 21:
+- :name: "狼Ring Western Tour Vol. 2 and 3"
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508405800756.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422508470265965.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: 'black'
+  :ink_color: 'white'
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from Crude at Chaos in Tejas 2009.
+Forward / Teargas:
+- :name: Burning Spirits 2014
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508888333015.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: red,yellow,fade
+  :manufacturer: UnitedAthle
+  :acquired_date: '2014'
+  :acquired_from: Diskshop Misery
+  :bootleg: false
+  :description: ''
+Warhead / Forward / Zone:
+- :name: Burning Against Spirits
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422764669671682.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1422764670988719.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: yellow
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2014'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: ''
+Krömosom / Nomad / Frenzy:
+- :name: Nuclear Reich Tour 2013
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508068797632.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2013'
+  :acquired_from: Chaos in Tejas 2013
+  :bootleg: false
+  :description: Purchased from Krömosom at Chaos in Tejas 2013.

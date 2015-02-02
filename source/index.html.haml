@@ -1,0 +1,57 @@
+%p.lead This is my shirt collection. None of these are for sale so don't even ask.
+- bands = YAML.load_file('data/shirts.yml').reject { |band, shirts| shirts.map { |shirt| shirt[:pictures] }.flatten.empty? }
+- all_shirts = bands.map { |_, shirts| shirts.reject { |shirt| shirt[:pictures].empty? } }.flatten(1)
+#shirts
+  .filter-controls.row
+    .col-xs-12.col-sm-4.col-md-3
+      .form-group
+        %label{ for: 'size-selector' } Size
+        %select.form-control#size-selector
+          %option{ 'data-filter-size' => 'none' } All
+          %option{ 'data-filter-size' => 'small' } Small
+          %option{ 'data-filter-size' => 'medium' } Medium
+          %option{ 'data-filter-size' => 'large' } Large
+          %option{ 'data-filter-size' => 'extra-large' } Extra Large
+    .col-xs-12.col-sm-4.col-md-3
+      .form-group
+        %label{ for: 'type-selector' } Type
+        %select.form-control#type-selector
+          %option{ 'data-filter-type' => 'none' } All
+          %option{ 'data-filter-type' => 'short-sleeve-shirt' } Short Sleeve Shirt
+          %option{ 'data-filter-type' => 'long-sleeve-shirt' } Long Sleeve Shirt
+          %option{ 'data-filter-type' => 'zip-up-hoodie' } Zip Up Hoodie
+          %option{ 'data-filter-type' => 'pull-over-hoodie' } Pull Over Hoodie
+    .col-xs-12.col-sm-4.col-md-3
+      .form-group
+        %label{ for: 'fabric-color-selector' } Fabric Color
+        %select.form-control#fabric-color-selector
+          %option{ 'data-filter-fabric-color' => 'none' } All
+          - all_shirts.map { |shirt| shirt[:fabric_color].split(',') }.flatten.uniq.sort.each do |color|
+            %option{ 'data-filter-fabric-color' => color }= color.titleize
+    .col-xs-12.col-sm-4.col-md-3
+      .form-group
+        %label{ for: 'ink-color-selector' } Ink Color
+        %select.form-control#ink-color-selector
+          %option{ 'data-filter-ink-color' => 'none' } All
+          - all_shirts.map { |shirt| shirt[:ink_color].split(',') }.flatten.uniq.sort.each do |color|
+            %option{ 'data-filter-ink-color' => color }= color.titleize
+    .col-xs-12.col-sm-4.col-md-3
+      .form-group
+        %label{ for: 'acquired-date-selector' } Acquired Date
+        %select.form-control#acquired-date-selector
+          %option{ 'data-filter-acquired-date' => 'none' } All
+          - all_shirts.map { |shirt| shirt[:acquired_date] }.uniq.sort.each do |year|
+            %option{ 'data-filter-acquired-date' => year }= year
+    .col-xs-12.col-sm-4.col-md-3
+      .form-group
+        %label{ for: 'acquired-from-selector' } Acquired From
+        %select.form-control#acquired-from-selector
+          %option{ 'data-filter-acquired-from' => 'none' } All
+          - all_shirts.map { |shirt| shirt[:acquired_from] }.uniq.sort.each do |from|
+            %option{ 'data-filter-acquired-from' => from }= from
+  .shirt-quantity= "#{all_shirts.length} shirts"
+  - bands.each do |band, shirts|
+    - if shirts.length > 0
+      = partial :band, locals: { band: band, shirts: shirts }
+= partial :css
+= partial :js

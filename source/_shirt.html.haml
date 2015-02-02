@@ -1,0 +1,42 @@
+%article.shirt.col-xs-12.col-sm-6.col-md-4{ id: "#{create_slug(band)}-#{create_slug(shirt[:name])}-#{create_slug(shirt[:type])}-#{create_slug(shirt[:size])}-#{create_slug(shirt[:ink_color].split(',').join('-'))}-on-#{create_slug(shirt[:fabric_color])}",
+                'data-type' => shirt[:type],
+                'data-size' => shirt[:size],
+                'data-fabric-color' => shirt[:fabric_color],
+                'data-ink-color' => shirt[:ink_color],
+                'data-acquired-date' => shirt[:acquired_date],
+                'data-acquired-from' => shirt[:acquired_from],
+                'data-bootleg' => !!shirt[:bootleg] }
+  %h3.shirt-name= shirt[:name]
+  .shirt-pictures
+    - shirt[:pictures].each do |picture|
+      - *path, filename = *(picture.split('/'))
+      .shirt-picture
+        %a{ href: picture, target: '_blank' }
+          %img{ src: "#{path.join('/')}/medium_#{filename}" }
+  .shirt-type
+    %strong Type:
+    = shirt[:type].titleize
+  .shirt-size
+    %strong Size:
+    = shirt[:size].titleize
+  .shirt-fabric-color
+    %strong Fabric Color:
+    = shirt[:fabric_color].titleize
+  .shirt-ink-color
+    %strong= shirt[:ink_color].split(',').length == 1 ? 'Ink Color:' : 'Ink Colors:'
+    = shirt[:ink_color].split(',').map { |color| color.strip.titleize }.join(', ')
+  .shirt-manufacturer
+    %strong Manufacturer:
+    = shirt[:manufacturer]
+  .shirt-acquired-date
+    %strong Acquired Date:
+    = shirt[:acquired_date]
+  .shirt-acquired-from
+    %strong Acquired From:
+    = shirt[:acquired_from]
+  .shirt-bootleg
+    %strong Bootleg?:
+    = shirt[:bootleg] ? 'Yes' : 'No'
+  .shirt-description
+    %strong Description:
+    = shirt[:description]

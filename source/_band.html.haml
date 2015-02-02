@@ -1,0 +1,5 @@
+%section.band.row{ id: "#{band.downcase}-shirts" }
+  %h2.col-xs-12= band
+  - shirts.each do |shirt|
+    - unless shirt[:pictures].empty?
+      = partial :shirt, locals: { band: band, shirt: shirt }
