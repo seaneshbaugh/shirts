@@ -228,7 +228,7 @@ Bastard:
     - http://seaneshbaugh.com/uploads/picture/images/1422588051207460.jpg
     - http://seaneshbaugh.com/uploads/picture/images/1422586397746303.jpg
     - http://seaneshbaugh.com/uploads/picture/images/1422586402929847.jpg
-  :type: short-sleeved-shirt
+  :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
   :ink_color: white
@@ -241,7 +241,7 @@ Bastard:
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422586547244065.jpg
     - http://seaneshbaugh.com/uploads/picture/images/1422586538784523.jpg
-  :type: short-sleeved-shirt
+  :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
   :ink_color: green,orange,pink
@@ -276,7 +276,7 @@ Bastard:
 - :name: Wind of Pain
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422586400270586.jpg
-  :type: short-sleeved-shirt
+  :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
   :ink_color: green
@@ -288,7 +288,7 @@ Bastard:
 - :name: Controlled in the Frame
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422508084767339.jpg
-  :type: short-sleeved-shirt
+  :type: short-sleeve-shirt
   :size: medium
   :fabric_color: red
   :ink_color: white
@@ -679,7 +679,7 @@ Dropdead:
 - :name: Tank
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422596682297140.jpg
-  :type: sort-sleeve-shirt
+  :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
   :ink_color: white
