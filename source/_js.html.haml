@@ -83,8 +83,14 @@
                 $.each(filterable.element.data(), function(name, otherFilterable) {
                   if (otherFilterable.isFilterable && otherFilterable.options && otherFilterable.options.on) {
                     $.each(dropdown.data("filterable-filters"), function(index, filter) {
+                      var current;
+
                       if (filter === otherFilterable.options.on) {
-                        otherFilterable.current = dropdown.find(":selected").data("filter-" + otherFilterable.options.on);
+                        current = dropdown.find(":selected").data("filter-" + otherFilterable.options.on);
+
+                        if (current) {
+                          otherFilterable.current = current;
+                        }
                       }
                     });
                   }
