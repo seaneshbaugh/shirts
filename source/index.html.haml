@@ -50,7 +50,7 @@
           %option{ 'data-filter-acquired-from' => 'none' } All
           - all_shirts.map { |shirt| shirt[:acquired_from] }.uniq.sort.each do |from|
             %option{ 'data-filter-acquired-from' => from }= from
-  .shirt-quantity= "#{all_shirts.length} shirts"
+  .item-quantity= "#{all_shirts.length} items"
   - bands.each do |band, shirts|
     - if shirts.length > 0
       = partial :band, locals: { band: band, shirts: shirts }

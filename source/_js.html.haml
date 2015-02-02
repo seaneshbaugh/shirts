@@ -292,7 +292,7 @@
   $(function() {
     $("#shirts").filterable({on: "size", event: "change", hideFunction: "hide", showFunction: "show",
       changeCallback: function(event, shownElements, hiddenElements) {
-        $(".shirt-quantity").text(shownElements.length.toString() + " shirts");
+        $(".item-quantity").text(shownElements.length.toString() + " items");
 
         $.each(shownElements, function(index, element) {
           $(element).addClass("visible");
