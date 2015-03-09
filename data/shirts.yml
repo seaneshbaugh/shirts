@@ -50,6 +50,20 @@ Acid:
   :acquired_from: Diskshop Misery
   :bootleg: false
   :description: Designed by Sugi.
+Agnostic Front:
+- :name: First Shirt
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875115966397.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1425875094327754.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: grey
+  :manufacturer: Gildan DryBlend
+  :acquired_date: '2015'
+  :acquired_from: Radio Raheem Records
+  :bootleg: false
+  :description: Official reprint of the first Agnostic Front shirt design from 1983. Designed by Ultra-Violence singer Tony T-Shirt.
 Amebix:
 - :name: Raven
   :pictures:
@@ -104,7 +118,8 @@ Arctic Flowers:
   :bootleg: false
   :description: Sold by the band on Bandcamp.
 - :name: New Wave
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875142550008.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: heather-grey
@@ -688,6 +703,19 @@ Dropdead:
   :acquired_from: Dropdead
   :bootleg: false
   :description: Purchased from the band at a show at 1919 Hemphill.
+Eel:
+- :name: Leatherface
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875116879578.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black,neon-orange
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2015'
+  :acquired_from: Badass Weekend 3
+  :bootleg: false
+  :description: Purchased from the band at Badass Weekend 3.
 Effluxus:
 - :name: Punk Roach
   :pictures: []
@@ -831,7 +859,20 @@ Framtid:
   :acquired_from: Chaos in Tejas 2013
   :bootleg: false
   :description: Purchased from the band at Chaos in Tejas 2013.
-Fucked Up: []
+Fucked Up:
+- :name: Triumph of Life
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875076621141.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1425875086539575.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: Fruit of the Loom BEST
+  :acquired_date: '2007'
+  :acquired_from: Fucked Up
+  :bootleg: false
+  :description: Purchased from the band at a show at Competition Music.
 G.I.S.M.:
 - :name: Anarchy Violence
   :pictures:
@@ -896,6 +937,19 @@ Gasmask:
   :bootleg: true
   :description: ''
 Gauze:
+- :name: Crash the Pose
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875012760056.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1425875014395806.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Jerzees Heavyweight Cotton
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: I'm actually not sure if this is a bootleg or not. If it is it's very old.
 - :name: Equalizing Distort
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422854331985815.jpg
@@ -1252,7 +1306,7 @@ MDC:
   :acquired_date: '2007'
   :acquired_from: MDC
   :bootleg: false
-  :description: Purchased from the band at a show at Red Blood CLub.
+  :description: Purchased from the band at a show at Red Blood Club.
 Midnight:
 - :name: You Can't Stop Vomit Tour 2009
   :pictures:
@@ -1530,6 +1584,19 @@ Razzle Dazzle:
   :bootleg: false
   :description: Purchased from the band at a show at Red Blood Club.
 Risky Business: []
+Rival Schools:
+- :name: United By Fate
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875018851139.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: off-white
+  :ink_color: fade,green,lime-green
+  :manufacturer: BayIsland Sportswear
+  :acquired_date: '2013'
+  :acquired_from: MerchNOW
+  :bootleg: false
+  :description:
 Seeker: []
 Sick of It All: []
 Skitkids: []
@@ -1956,6 +2023,19 @@ Nerveskade / D-Clone:
   :acquired_from: Diskshop Misery
   :bootleg: false
   :description:
+Gauze / G.I.S.M. / The Comes:
+- :name: 消毒 Gig Vol 9
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1425875081317399.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2015'
+  :acquired_from: Badass Weekend 3
+  :bootleg: true
+  :description: "Purchased from one of the members of Eel. More info about the show can be found <a href=\"http://www7b.biglobe.ne.jp/~japhardcorepunk/pages/gauze_liveandsetlist.html\">here</a>."
 Krömosom / Nomad / Frenzy:
 - :name: Nuclear Reich Tour 2013
   :pictures:

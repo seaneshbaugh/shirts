@@ -6,7 +6,10 @@
                 'data-acquired-date' => shirt[:acquired_date],
                 'data-acquired-from' => shirt[:acquired_from],
                 'data-bootleg' => !!shirt[:bootleg] }
-  %h3.shirt-name= shirt[:name]
+  %h3.shirt-name
+    = shirt[:name]
+    %a.hover-link{ href: "##{create_slug(band)}-#{create_slug(shirt[:name])}-#{create_slug(shirt[:type])}-#{create_slug(shirt[:size])}-#{create_slug(shirt[:ink_color].split(',').join('-'))}-on-#{create_slug(shirt[:fabric_color])}"}
+      %span.glyphicon.glyphicon-link
   .shirt-pictures
     - shirt[:pictures].each do |picture|
       - *path, filename = *(picture.split('/'))
