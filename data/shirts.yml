@@ -25,6 +25,19 @@
   :acquired_from: Deathwish Inc.
   :bootleg: false
   :description: Designed by Jacob Bannon.
+'9 Shocks Terror':
+- :name: Ying / Yang
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047529204894.jpg
+  :type: t-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Fruit of the Loom Heavy Cotton
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description:
 Acid:
 - :name: Gray Earth
   :pictures:
@@ -142,7 +155,9 @@ Arctic Flowers:
   :description: Sold by the band on Bandcamp.
 Assfort:
 - :name: Stay Assfort
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047510386662.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1426047497599762.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
@@ -300,6 +315,31 @@ Bastard:
   :acquired_from: eBay
   :bootleg: false
   :description: Seller claimed to believe it to be genuine.
+- :name: Wind of Pain
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047602886771.jpg
+  :type: t-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Premium Cotton
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: true
+  :description:
+- :name: Wind of Pain Cover
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047539135619.jpg
+  :type: t-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Gildan Heavy Cotton
+  :acquired_date: '2015'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: I'm fairly certain this was sold at Chaos in Tejas 2010. The
+    brand makes me suspicious though as the seller provided no additional information.
 - :name: Controlled in the Frame
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422508084767339.jpg
@@ -314,7 +354,8 @@ Bastard:
   :description: Customized colors.
 Battalion of Saints:
 - :name: Fighting Boys
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047645498430.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
@@ -338,7 +379,8 @@ Battle of Disarm:
   :description: ''
 Bitter End:
 - :name: Climate of Fear Record Release Show
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047623135051.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
@@ -350,7 +392,8 @@ Bitter End:
   :description: Purchased from the band at the "Climate of Fear" record release show
     at Red Blood Club.
 - :name: USHC Eagle
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047644334745.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: black
@@ -399,7 +442,8 @@ Brutal Knights:
   :description: Purchased from the band at a show at Red Blood Club.
 Career Suicide:
 - :name: Attempted Suicide
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047641670178.jpg
   :type: short-sleeve-shirt
   :size: medium
   :fabric_color: red
@@ -1097,7 +1141,20 @@ Impalers:
   :acquired_from: eBay
   :bootleg: false
   :description: ''
-Indian Summer: []
+Indian Summer:
+- :name: Indian Summer
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047639235392.jpg
+  :type: t-shirt
+  :size: medium
+  :fabric_color: navy-blue
+  :ink_color: white
+  :manufacturer: American Apparel
+  :acquired_date: '2007'
+  :acquired_from: eBay
+  :bootleg: false
+  :description: Purchased from the band's singer on eBay. He did a limited
+    reprint run of old shirts and sold them on eBay.
 Insect Warfare:
 - :name: Endless Execution
   :pictures:
@@ -1207,6 +1264,19 @@ Kaospilot:
   :description: ''
 Kite Flying Society: []
 Knockout Kings:
+- :name: Kings
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1426047535772284.jpg
+    - http://seaneshbaugh.com/uploads/picture/images/1426047525161460.jpg
+  :type: polo-shirt
+  :size: small
+  :fabric_color: light-blue
+  :ink_color: red
+  :manufacturer: Stedman by Hanes
+  :acquired_date: '2005'
+  :acquired_from: Knockout Kings
+  :bootleg: false
+  :description: "Purchased from the band at a show at The Door: Fort Worth. Way fratty."
 - :name: The Kids Got Heart
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422586409134375.jpg
@@ -1214,7 +1284,7 @@ Knockout Kings:
   :size: medium
   :fabric_color: red
   :ink_color: white
-  :manufacturer: ''
+  :manufacturer: Jerzees NuBlend
   :acquired_date: '2006'
   :acquired_from: Knockout Kings
   :bootleg: false
@@ -1754,19 +1824,6 @@ Universal Order of Armageddon:
   :acquired_from: Chaos in Tejas 2011
   :bootleg: false
   :description: Purchased from the band at Chaos in Tejas 2011.
-Warcry:
-- :name: Instinctual Pimitive Mania
-  :pictures:
-    - http://seaneshbaugh.com/uploads/picture/images/1422508672531655.jpg
-  :type: short-sleeve-shirt
-  :size: medium
-  :fabric_color: grey
-  :ink_color: white,red
-  :manufacturer: Gildan Ultra Cotton
-  :acquired_date: '2009'
-  :acquired_from: Chaos in Tejas 2009
-  :bootleg: false
-  :description: Purchased from the Band at Chaos in Tejas 2009.
 Vaaska:
 - :name: Deformación Ruido Destrucción
   :pictures:
@@ -1780,6 +1837,19 @@ Vaaska:
   :acquired_from: Chaos in Tejas 2013
   :bootleg: false
   :description: Purchased from the band at Chaos in Tejas 2013.
+Warcry:
+- :name: Instinctual Pimitive Mania
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508672531655.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: grey
+  :ink_color: red,white
+  :manufacturer: Gildan Ultra Cotton
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the Band at Chaos in Tejas 2009.
 Warhead:
 - :name: Get the Fuck Out of My Way III
   :pictures:
@@ -1955,6 +2025,19 @@ Zyanose:
   :acquired_from: Chaos in Tejas 2012
   :bootleg: false
   :description: Purchased from the band at Chaos in Tejas 2012.
+"悪AI意":
+- :name: War Tribes on Protest 2009
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1422508787302219.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: white
+  :manufacturer: Hanes Heavyweight
+  :acquired_date: '2009'
+  :acquired_from: Chaos in Tejas 2009
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2009.
 "悪AI意 / Warcry":
 - :name: Two War Tribes on Protest Tour 2009
   :pictures:
@@ -2063,19 +2146,6 @@ Warhead / Forward / Zone:
   :acquired_from: eBay
   :bootleg: false
   :description: ''
-"悪AI意":
-- :name: War Tribes on Protest 2009
-  :pictures:
-    - http://seaneshbaugh.com/uploads/picture/images/1422508787302219.jpg
-  :type: short-sleeve-shirt
-  :size: medium
-  :fabric_color: black
-  :ink_color: white
-  :manufacturer: Hanes Heavyweight
-  :acquired_date: '2009'
-  :acquired_from: Chaos in Tejas 2009
-  :bootleg: false
-  :description: Purchased from the band at Chaos in Tejas 2009.
 Bloodsucker Records:
 - :name: Bloodsucker Records 25th Anniversary
   :pictures:
