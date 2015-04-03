@@ -6,7 +6,7 @@
   :size: medium
   :fabric_color: red
   :ink_color: full-color
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2008'
   :acquired_from: eBay
   :bootleg: false
@@ -37,7 +37,7 @@
   :acquired_date: '2015'
   :acquired_from: eBay
   :bootleg: false
-  :description:
+  :description: ''
 Acid:
 - :name: Gray Earth
   :pictures:
@@ -175,7 +175,7 @@ Balls Out:
   :size: small
   :fabric_color: black
   :ink_color: green
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2007'
   :acquired_from: Balls Out
   :bootleg: false
@@ -186,7 +186,7 @@ Balls Out:
   :size: small
   :fabric_color: grey
   :ink_color: black
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2006'
   :acquired_from: Ridglea Metal Fest 2006
   :bootleg: false
@@ -198,7 +198,7 @@ Balls Out:
   :size: small
   :fabric_color: red
   :ink_color: white
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2005'
   :acquired_from: Balls Out
   :bootleg: false
@@ -209,7 +209,7 @@ Balls Out:
   :size: small
   :fabric_color: yellow
   :ink_color: black
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2007'
   :acquired_from: Balls Out
   :bootleg: false
@@ -221,7 +221,7 @@ Balls Out:
   :size: small
   :fabric_color: blue
   :ink_color: white
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2005'
   :acquired_from: Balls Out
   :bootleg: false
@@ -233,7 +233,7 @@ Bane:
   :size: medium
   :fabric_color: brown
   :ink_color: gold,yellow
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2007'
   :acquired_from: SXSW 2007
   :bootleg: false
@@ -326,7 +326,7 @@ Bastard:
   :acquired_date: '2015'
   :acquired_from: eBay
   :bootleg: true
-  :description:
+  :description: ''
 - :name: Wind of Pain Cover
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1426047539135619.jpg
@@ -367,12 +367,13 @@ Battalion of Saints:
   :description: Purchased from the band at a show at Red Blood Club.
 Battle of Disarm:
 - :name: Crust, Love, and Peace
-  :pictures: []
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027733409241.jpg
   :type: short-sleeve-shirt
   :size: large
   :fabric_color: black
   :ink_color: white
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2012'
   :acquired_from: Puke 'N' Vomit Records
   :bootleg: true
@@ -423,7 +424,7 @@ Blacklisted:
   :size: medium
   :fabric_color: grey
   :ink_color: red
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2006'
   :acquired_from: 'Blacklisted'
   :bootleg: false
@@ -661,6 +662,18 @@ Dark Forces:
   :bootleg: false
   :description: Purchased from the band at a show at J&J's Pizza.
 Death Side:
+- :name: Logo
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027729546658.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: black
+  :ink_color: blue
+  :manufacturer: ''
+  :acquired_date: '2012'
+  :acquired_from: eBay
+  :bootleg: true
+  :description: ''
 - :name: Bet on the Possibility
   :pictures: []
   :type: short-sleeve-shirt
@@ -670,7 +683,7 @@ Death Side:
   :manufacturer: ''
   :acquired_date: '2013'
   :acquired_from: Committed to Suicide Distributions
-  :bootleg: false
+  :bootleg: true
   :description: ''
 Deltron 3030:
 - :name: Deltron 3030
@@ -692,7 +705,7 @@ Desperate Measures:
   :size: medium
   :fabric_color: green
   :ink_color: yellow
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2007'
   :acquired_from: eBay
   :bootleg: false
@@ -860,7 +873,7 @@ Framtid:
   :size: medium
   :fabric_color: black
   :ink_color: white
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2013'
   :acquired_from: Chaos in Tejas 2013
   :bootleg: false
@@ -885,7 +898,7 @@ Framtid:
   :size: medium
   :fabric_color: black
   :ink_color: white
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2013'
   :acquired_from: Chaos in Tejas 2013
   :bootleg: false
@@ -898,7 +911,7 @@ Framtid:
   :size: medium
   :fabric_color: black
   :ink_color: white
-  :manufacturer:
+  :manufacturer: ''
   :acquired_date: '2013'
   :acquired_from: Chaos in Tejas 2013
   :bootleg: false
@@ -1005,7 +1018,7 @@ Gauze:
   :acquired_date: '2014'
   :acquired_from: Warlord Clothing
   :bootleg: true
-  :description:
+  :description: ''
 - :name: Gauze/Anarchy Logo
   :pictures:
     - http://seaneshbaugh.com/uploads/picture/images/1422509137301217.jpg
@@ -1193,6 +1206,18 @@ Iron Age:
   :acquired_from: eBay
   :bootleg: false
   :description: ''
+- :name: Demo Logo
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027970638261.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: navy-bue
+  :ink_color: green
+  :manufacturer: ''
+  :acquired_date: '2010'
+  :acquired_from: James K
+  :bootleg: false
+  :description: ''
 Isterismo:
 - :name: Essere Uno
   :pictures:
@@ -1205,7 +1230,7 @@ Isterismo:
   :acquired_date: '2015'
   :acquired_from: eBay
   :bootleg: false
-  :description:
+  :description: ''
 Jawbreaker:
 - :name: When It Pains It Roars
   :pictures:
@@ -1289,7 +1314,19 @@ Knockout Kings:
   :acquired_from: Knockout Kings
   :bootleg: false
   :description: Purchased from the band at a show at Red Blood Club.
-Kriegshög: []
+Kriegshög:
+- :name: Hardcore Hell Chaos in Tejas 2011
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027757503255.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: brown
+  :ink_color: white
+  :manufacturer: ''
+  :acquired_date: '2011'
+  :acquired_from: Chaos in Tejas 2011
+  :bootleg: false
+  :description: Purchased from the band at Chaos in Tejas 2011.
 Krömosom:
 - :name: Nuclear Reich
   :pictures:
@@ -1306,8 +1343,34 @@ Krömosom:
 Kylesa: []
 La Quiete: []
 Layin' It Down: []
+Leech:
+- :name: Brass Knuckle Punk Skeleton
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027944283357.jpg
+  :type: short-sleeve-shirt
+  :size: large
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: ''
+  :acquired_date: '2015'
+  :acquired_from: Everything Is Not OK 2015
+  :bootleg: false
+  :description: Purchased from the band at Everything Is Not OK 2015. I asked for a medium and got a large. Oops.
 Leeway: []
 Lie and Wait: []
+Life Like:
+- :name: Barney Rubble Smashing Cop Skulls
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027749968988.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: black
+  :ink_color: brown
+  :manufacturer: ''
+  :acquired_date: '2015'
+  :acquired_from: Everything Is Not OK 2015
+  :bootleg: false
+  :description: Purchased from the band at Everything Is Not OK 2015. Designed by Trevor3II.
 Lion of Judah:
 - :name: Universal Peace
   :pictures:
@@ -1666,9 +1729,47 @@ Rival Schools:
   :acquired_date: '2013'
   :acquired_from: MerchNOW
   :bootleg: false
-  :description:
+  :description: ''
+Saves the Day:
+- :name: Jersey Strong
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027932396827.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: brown,tan
+  :manufacturer: ''
+  :acquired_date: '2015'
+  :acquired_from: MerchNOW
+  :bootleg: false
+  :description: ''
 Seeker: []
 Sick of It All: []
+Sin Motivo:
+- :name: Guerra de Flores
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027936741600.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: ''
+  :acquired_date: '2015'
+  :acquired_from: Everything Is Not OK 2015
+  :bootleg: false
+  :description: Purchased from the band at Everything Is Not OK 2015.
+- :name: Sin Motivo
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027965662904.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: white
+  :ink_color: black
+  :manufacturer: ''
+  :acquired_date: '2013'
+  :acquired_from: Sin Motivo
+  :bootleg: false
+  :description: Purchased from the band at a show at Rubber Gloves.
 Skitkids: []
 Skizophrenia: []
 Slang:
@@ -1743,6 +1844,19 @@ The Postal Service:
   :acquired_from: The Postal Service
   :bootleg: false
   :description: Purchased from the band at a show at Verizon Theatre.
+The Sentenced:
+- :name: Frog
+  :pictures:
+    - http://seaneshbaugh.com/uploads/picture/images/1428027970238130.jpg
+  :type: short-sleeve-shirt
+  :size: medium
+  :fabric_color: natural
+  :ink_color: black
+  :manufacturer: ''
+  :acquired_date: '2015'
+  :acquired_from: Everything Is Not OK 2015.
+  :bootleg: false
+  :description: Purchased from the band at Everything Is Not OK 2015.
 The Slowmotions: []
 The Starting Line: []
 The Stalin: []
@@ -1876,7 +1990,7 @@ Warhead:
   :acquired_date: '2015'
   :acquired_from: eBay
   :bootleg: false
-  :description:
+  :description: ''
 Warzone:
 - :name: Don't Forget the Struggle, Don't Forget the Streets
   :pictures: []
@@ -2000,7 +2114,7 @@ Zouo:
   :acquired_date: '2014'
   :acquired_from: Schizoid Unit
   :bootleg: true
-  :description:
+  :description: ''
 Zyanose:
 - :name: From Nuclear Island Never Give in Nuke Traitor
   :pictures:
@@ -2092,7 +2206,7 @@ Mental / Desperate Measures:
   :acquired_date: '2015'
   :acquired_from: eBay
   :bootleg: false
-  :description:
+  :description: ''
 Nerveskade / D-Clone:
 - :name: Obscene Noize Violence Japan Tour 2011
   :pictures:
@@ -2105,7 +2219,7 @@ Nerveskade / D-Clone:
   :acquired_date: '2015'
   :acquired_from: Diskshop Misery
   :bootleg: false
-  :description:
+  :description: ''
 Gauze / G.I.S.M. / The Comes:
 - :name: 消毒 Gig Vol 9
   :pictures:

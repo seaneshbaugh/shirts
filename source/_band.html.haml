@@ -2,4 +2,6 @@
   %h2.col-xs-12= band
   - shirts.each do |shirt|
     - unless shirt[:pictures].empty?
+      - if shirt[:manufacturer].blank?
+        - puts "WARNING: #{create_slug(band)}-#{create_slug(shirt[:name])}-#{create_slug(shirt[:type])}-#{create_slug(shirt[:size])}-#{create_slug(shirt[:ink_color].split(',').join('-'))}-on-#{create_slug(shirt[:fabric_color])} has no manufacturer."
       = partial :shirt, locals: { band: band, shirt: shirt }
