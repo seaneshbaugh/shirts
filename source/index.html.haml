@@ -48,7 +48,7 @@
         %label{ for: 'acquired-from-selector' } Acquired From
         %select.form-control#acquired-from-selector
           %option{ 'data-filter-acquired-from' => 'none' } All
-          - all_shirts.map { |shirt| shirt[:acquired_from] }.uniq.sort.each do |from|
+          - all_shirts.map { |shirt| shirt[:acquired_from] }.uniq.sort_by(&:downcase).each do |from|
             %option{ 'data-filter-acquired-from' => from }= from
   .item-quantity= "#{all_shirts.length} items"
   - bands.each do |band, shirts|
